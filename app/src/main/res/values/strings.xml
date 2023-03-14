@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirmaDocus</string>
+    <string name="conectar">Conectar</string>
+    <string name="submit">Firmar</string>
+    <string name="atencion">Atención</string>
+    <string name="desconectar">Esta seguro de que desea desconectar?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+</resources>
